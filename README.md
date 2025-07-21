@@ -113,3 +113,36 @@ Se permite su uso, modificación y distribución con la debida atribución a LAE
 **LAEV – Lerry Alexander Elizondo Villalobos**  
 Correo: laev.lab.ele@gmail.com | laev.lab@proton.me  
 GitHub: [lerryalexanderelizondo](https://github.com/lerryalexanderelizondo)
+
+Licencia de Derechos de Autor y Protección de Autoría Profesional
+
+Autor: Lerry Alexander Elizondo Villalobos (LAEV)
+Correo: laev.lab.ele@gmail.com | laev.lab@proton.me
+
+Derechos Reservados
+
+Todo el contenido, texto, teoría, diseños, ideas, interpretaciones, análisis, código y demás productos intelectuales incluidos en este repositorio y cualquier otro material profesional relacionado son propiedad exclusiva y original del autor, LAEV.
+
+Declaración de Autoría y Ausencia de Patrocinio
+
+Se certifica que todo el trabajo profesional presentado ha sido desarrollado íntegramente por LAEV, sin financiamiento, patrocinio, inversión o apoyo material alguno de terceras partes. No existe relación contractual ni económica con ninguna entidad externa que respalde, controle o influya en el contenido o desarrollo del trabajo.
+
+Protección y Uso
+
+Se prohíbe la reproducción, distribución, comercialización, copia, modificación, explotación o uso de cualquier parte de este trabajo sin autorización expresa, por escrito y firmada por LAEV.
+
+Cualquier uso no autorizado, incluido pero no limitado a la apropiación, plagio, explotación comercial o representación indebida, será considerado una violación a los derechos de autor y estará sujeto a acciones legales.
+
+La intención es proteger la integridad intelectual, económica y moral del autor, evitando que terceros se aprovechen, lucren o usen indebidamente el trabajo profesional sin consentimiento.
+
+
+Permisos
+
+Bajo petición expresa, LAEV podrá evaluar licencias específicas para usos autorizados, siempre bajo condiciones claras y con acuerdos legales previos.
+
+
+---
+
+Esta licencia complementa y no sustituye las licencias estándar como MIT u otras; su propósito es garantizar la protección moral y económica del trabajo profesional de LAEV.
+
+
